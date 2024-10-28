@@ -165,7 +165,7 @@
     <Extension_SmcCodePartRH850>
       <CodeGeneratorData></CodeGeneratorData>
       <GenerateFileFolder>D:\SourceCode\_Avery_Renesas\CS+\temp\Sample_Project_RH850_S1</GenerateFileFolder>
-      <SCFGFile>Sample_Project_RH850_S1.scfg</SCFGFile>
+      <SCFGFile>Sample_Project_RH850_S1_SPI_Master.scfg</SCFGFile>
       <SmcExePath>C:\Program Files (x86)\Renesas Electronics\SmartConfigurator\RH850\eclipse\SmartConfigurator.exe</SmcExePath>
       <CodeGeneratorFilesGuid>10358fc3-0061-4b26-9d55-07828554d92a</CodeGeneratorFilesGuid>
     </Extension_SmcCodePartRH850>
